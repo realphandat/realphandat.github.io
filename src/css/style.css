@@ -17,12 +17,12 @@ body {
     user-select: none;
     
     --mode-default-color:#fff;
-    --avatar-box-shadow-color:#8A9669;
-    --mode-btn-bg-dark:#8A9669;
+    --avatar-box-shadow-color:#EBADA0;
+    --mode-btn-bg-dark:#EBADA0;
     --list-item-bg-color:#eee;
-    --list-item-bg-color-2:#8A9669;
+    --list-item-bg-color-2:#EBADA0;
     --list-item-text-color:#666;
-    --mode-btn-bg:#8A9669;
+    --mode-btn-bg:#EBADA0;
     --text-color:#666;
 
     font-family: 'Open Sans', sans-serif;
@@ -31,12 +31,12 @@ body {
 
 body.dark-mode {
     --mode-default-color:#000;
-    --avatar-box-shadow-color:#8A9669;
+    --avatar-box-shadow-color:#EBADA0;
     --mode-btn-bg-dark:#201f1f;
     --list-item-bg-color:#2b2a2a;
     --list-item-bg-color-2:#2b2a2a;
     --list-item-text-color:#fff;
-    --mode-btn-bg:#8A9669;
+    --mode-btn-bg:#EBADA0;
     --text-color:#fff;
 
     background-color: var(--mode-default-color);
