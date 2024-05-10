@@ -21,9 +21,9 @@ body {
     --mode-btn-bg-dark:#EBADA0;
     --list-item-bg-color:#eee;
     --list-item-bg-color-2:#EBADA0;
-    --list-item-text-color:#666;
+    --list-item-text-color:#2b2a2a;
     --mode-btn-bg:#EBADA0;
-    --text-color:#666;
+    --text-color:#2b2a2a;
 
     font-family: 'Open Sans', sans-serif;
     background-color: var(--mode-default-color);
